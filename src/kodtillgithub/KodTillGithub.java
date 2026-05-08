@@ -15,6 +15,8 @@ public class KodTillGithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("tjenare ny kod");
+        System.out.println("hej hej");
     }
     
 }
