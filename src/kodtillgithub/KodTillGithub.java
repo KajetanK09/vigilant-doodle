@@ -17,6 +17,10 @@ public class KodTillGithub {
         // TODO code application logic here
         System.out.println("tjenare ny kod");
         System.out.println("hej hej");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("nah vad sussigt du är på" + i);
+            
+        }
     }
     
 }
